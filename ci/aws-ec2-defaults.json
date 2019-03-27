@@ -2,6 +2,10 @@
 
     {
         "ParameterKey": "SSHLocation",
-        "ParameterValue": "72.21.196.64"
+        "ParameterValue": "72.21.196.64/32"
+    }
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "am-issues"
     }
 ]
