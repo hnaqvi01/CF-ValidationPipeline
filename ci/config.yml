@@ -10,5 +10,5 @@ tests:
     regions:
       - eu-west-1
       - us-east-1
-    parameter_input: aws-vpc-defaults.json
-    template_file: aws-vpc.template
+    parameter_input: aws-ec2-defaults.json
+    template_file: aws-ec2.template
